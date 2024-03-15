@@ -36,4 +36,4 @@ Screenshot:
 
 Link to github repository for this project: https://github.com/dialaobeid/My-Note-Taker/tree/main
 
-Link to deployed application on Heroku: 
+Link to deployed application on Heroku: https://secure-harbor-04337-db2a2516c78a.herokuapp.com/notes 
