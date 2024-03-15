@@ -32,8 +32,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 Created my code with some assistance frm Xpert learning assistant and google.
 
 Screenshot:
-![Alt text](./Develop/public/assets/images/Screenshot-Mod-11-Ch.png)
+![Alt text](./public/assets/images/Screenshot-Mod-11.png)
 
 Link to github repository for this project: https://github.com/dialaobeid/My-Note-Taker/tree/main
 
-Link to deployed application on Heroku: https://secure-harbor-04337-db2a2516c78a.herokuapp.com/notes 
+Link to deployed application on Heroku: https://secure-harbor-04337-db2a2516c78a.herokuapp.com/notes
